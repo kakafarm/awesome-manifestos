@@ -20,6 +20,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
   (also on [the Open Behavioral Science site](https://openbehavioralscience.org/manifesto/)).
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
 - [Pandora's Vox by Humdog](https://codeberg.org/kakafarm/pandoras-vox-by-humdog).
+- [The unix_surrealism Manifesto(?)](https://analognowhere.com/unix_surrealism/).
 
 ## License:
 
