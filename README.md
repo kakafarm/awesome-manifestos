@@ -1,6 +1,6 @@
 Maybe some of these are not pure manifests, but they're all sorta philosophical.  Patches welcome.
 
-- Brutalist Manifesto:
+- The Brutalist Manifesto:
   http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt (https://systemcrafters.net/live-streams/october-11-2024/)
 - The Mythical Man Month:
   https://en.wikipedia.org/wiki/The_Mythical_Man-Month
