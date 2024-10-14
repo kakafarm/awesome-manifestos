@@ -14,7 +14,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - [The Agile Manifesto](https://agilemanifesto.org/).
   (A bit on [the Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto).)
 
-## Humanity versus IT.
+## Humanity versus IT:
 
 - [The Guerrila Open Access Manifesto (on the Internet Archive†)](https://archive.org/details/GuerillaOpenAccessManifesto).
   (also on [the Open Behavioral Science site](https://openbehavioralscience.org/manifesto/)).
