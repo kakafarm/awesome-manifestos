@@ -2,7 +2,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 
 - [The Brutalist Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt) (a discussion on a [Systemcrafters](https://systemcrafters.net/live-streams/october-11-2024/) livestream).
 - [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month).
-- [The Mythical Man Finger](https://web.archive.org/web/20121015012156/http://stephenramsay.us/2011/07/25/the-mythical-man-finger.html).
+- [The Mythical Man Finger (on the Internet Archive†)](https://web.archive.org/web/20121015012156/http://stephenramsay.us/2011/07/25/the-mythical-man-finger.html).
 - [Worse Is Better](https://www.dreamsongs.com/WIB.html) and ["the story of the evolution of that concept"](https://dreamsongs.com/WorseIsBetter.html).
 - [The GNU Manifesto](https://www.gnu.org/gnu/manifesto.html).
 - [The Cathedral And The Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar).
