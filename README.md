@@ -13,6 +13,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - [The Suckless Manifesto](https://suckless.org/philosophy/).
 - [The Agile Manifesto](https://agilemanifesto.org/).
   (A bit on [the Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto).)
+- [The Zen of Python](https://peps.python.org/pep-0020/)
 
 ## Humanity versus IT:
 
