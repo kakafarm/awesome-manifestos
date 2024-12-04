@@ -12,8 +12,10 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - [The Cathedral And The Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar).
 - [The Suckless Manifesto](https://suckless.org/philosophy/).
 - [The Agile Manifesto](https://agilemanifesto.org/).
-  (A bit on [the Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto).)
-- [The Zen of Python](https://peps.python.org/pep-0020/)
+  (A bit on [the Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto)).
+- [The Zen of Python](https://peps.python.org/pep-0020/).
+- The [Step Away From The Computer Or Hammock-Driven Development by Rick Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) manifesto talk video.
+  - The [Step Away From The Computer Or Hammock-driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md) manifesto talk transcript.
 
 ## Humanity versus IT:
 
