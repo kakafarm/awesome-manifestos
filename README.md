@@ -17,6 +17,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - [The Zen of Python](https://peps.python.org/pep-0020/).
 - The [Step Away From The Computer Or Hammock-Driven Development by Rick Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) manifesto talk video.
   - The [Step Away From The Computer Or Hammock-driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md) manifesto talk transcript.
+- [Malliable.Systems manifesto(?)](https://malleable.systems/mission/).
 
 ## Humanity versus IT:
 
