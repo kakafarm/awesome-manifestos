@@ -18,6 +18,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - The [Step Away From The Computer Or Hammock-Driven Development by Rick Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) manifesto talk video.
   - The [Step Away From The Computer Or Hammock-driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md) manifesto talk transcript.
 - [Malliable.Systems manifesto(?)](https://malleable.systems/mission/).
+- [Riastradh's Lisp Style Rules](https://mumble.net/~campbell/scheme/style.txt)
 
 ## Humanity versus IT:
 
