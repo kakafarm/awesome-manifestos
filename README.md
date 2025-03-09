@@ -1,6 +1,10 @@
 # Awesome Manifestos list:
 
-Maybe some of these are not pure manifests, but they're all sorta philosophical.  Patches welcome.
+Maybe some of these are not pure manifests, but they're all sorta philosophical.
+
+Patches welcome - go to the page on <https://codeberg.org/kakafarm/awesome-manifestos/> if you want to contribute.
+
+Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Github), software development platform operated by Codeberg e.V. and centered around Codeberg.org, a Forgejo-based free/libre (unlike Github) software forge.
 
 ## Software development and/or design philosophy:
 
