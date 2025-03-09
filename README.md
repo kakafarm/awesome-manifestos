@@ -18,7 +18,8 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - The [Step Away From The Computer Or Hammock-Driven Development by Rick Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) manifesto talk video.
   - The [Step Away From The Computer Or Hammock-driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md) manifesto talk transcript.
 - [Malliable.Systems manifesto(?)](https://malleable.systems/mission/).
-- [Riastradh's Lisp Style Rules](https://mumble.net/~campbell/scheme/style.txt)
+- [Riastradh's Lisp Style Rules](https://mumble.net/~campbell/scheme/style.txt).
+- [A Discipline of Version Control - Some dogmatic opinions about the practice of version control - by Wolfgang Corcoran-Mathe (AKA Zipheir)](https://www.sigwinch.xyz/misc/version-control.html).
 
 ## Humanity versus IT:
 
@@ -27,6 +28,7 @@ Maybe some of these are not pure manifests, but they're all sorta philosophical.
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
 - [Pandora's Vox by Humdog](https://codeberg.org/kakafarm/pandoras-vox-by-humdog).
 - [The unix_surrealism Manifesto(?)](https://analognowhere.com/unix_surrealism/).
+- [A Cypherpunk's Manifesto by Eric Hughes (1993-03-09)](https://www.activism.net/cypherpunk/manifesto.html).
 
 ## License:
 
