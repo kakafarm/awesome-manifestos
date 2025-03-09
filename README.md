@@ -6,7 +6,7 @@ Patches welcome - go to the page on <https://codeberg.org/kakafarm/awesome-manif
 
 Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Github), software development platform operated by Codeberg e.V. and centered around Codeberg.org, a Forgejo-based free/libre (unlike Github) software forge.
 
-## Software development and/or design philosophy:
+## Software development and/or design philosophy.
 
 - [The Brutalist Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt) (a discussion on a [Systemcrafters](https://systemcrafters.net/live-streams/october-11-2024/) livestream).
 - [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month).
