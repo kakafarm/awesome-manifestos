@@ -24,6 +24,7 @@ Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Gi
 - [Malliable.Systems manifesto(?)](https://malleable.systems/mission/).
 - [Riastradh's Lisp Style Rules](https://mumble.net/~campbell/scheme/style.txt).
 - [A Discipline of Version Control - Some dogmatic opinions about the practice of version control - by Wolfgang Corcoran-Mathe (AKA Zipheir)](https://www.sigwinch.xyz/misc/version-control.html).
+- [Codin' Dirty by Carson Gross](https://htmx.org/essays/codin-dirty/). Hmm... Carson Gross likes it dirty… that is nominative determinism if I had ever seen one……… ……… ……….
 
 ## Humanity versus IT.
 
