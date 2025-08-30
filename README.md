@@ -29,7 +29,7 @@ Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Gi
 
 ## Computer Game Making.
 
-- [The Accursed Toys'™ Manifesto](/manifestos/the-accursed-toys-manifesto), as appears in the game [BOPPIN'](https://jenniverse.com/boppin%20main.html) OCRed using Google Images of a screenshot on [ROSS'S GAME DUNGEON: BOPPIN'](https://www.accursedfarms.com/posts/rosss-game-dungeon/boppin/).
+- [The Accursed Toys'™ Manifesto](/manifestos/the-accursed-toys-manifesto.md), as appears in the game [BOPPIN'](https://jenniverse.com/boppin%20main.html) OCRed using Google Images of a screenshot on [ROSS'S GAME DUNGEON: BOPPIN'](https://www.accursedfarms.com/posts/rosss-game-dungeon/boppin/).
 
 ## Humanity versus IT.
 
