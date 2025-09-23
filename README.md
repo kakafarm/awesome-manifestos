@@ -31,6 +31,12 @@ Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Gi
 
 - [The Accursed Toys'™ Manifesto](./manifestos/the-accursed-toys-manifesto.md), as appears in the game [BOPPIN'](https://jenniverse.com/boppin%20main.html) OCRed using Google Images of a screenshot on [ROSS'S GAME DUNGEON: BOPPIN'](https://www.accursedfarms.com/posts/rosss-game-dungeon/boppin/).
 
+## User philosophies.
+
+Philosophies and approaches of computer users.
+
+- [Policy of transcience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/) by [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/me.html).  About not saving things that you do not need and purposefully saving what you do need, e.g. script files instead of shell commands history and bookmarks instead of tabs.  There are exceptions and the author considers those exceptions versus the rule.
+
 ## Humanity versus IT.
 
 - [The Guerrila Open Access Manifesto (on the Internet Archive†)](https://archive.org/details/GuerillaOpenAccessManifesto).
