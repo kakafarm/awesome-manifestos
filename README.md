@@ -27,6 +27,13 @@ Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Gi
 - [Codin' Dirty by Carson Gross](https://htmx.org/essays/codin-dirty/). Hmm... Carson Gross likes it dirty… that is nominative determinism if I had ever seen one……… ……… ……….
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load).  "Cognitive load is how much a developer needs to think in order to complete a task".
 
+## Free Software Project management.
+
+- [Collective Code Construction Contract](https://rfc.zeromq.org/spec/44/).
+  An approach on how to deal with pull requests.
+  The solution here is a bit like the quote "Caedite eos. Novit enim Dominus qui sunt eius."
+  Or... "merge 'em all and let G-d sort 'em out."
+
 ## Computer game making.
 
 - [The Accursed Toys'™ Manifesto](./manifestos/the-accursed-toys-manifesto.md), as appears in the game [BOPPIN'](https://jenniverse.com/boppin%20main.html) OCRed using Google Images of a screenshot on [ROSS'S GAME DUNGEON: BOPPIN'](https://www.accursedfarms.com/posts/rosss-game-dungeon/boppin/).
