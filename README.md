@@ -13,7 +13,9 @@ Codeberg is a democratic community-driven (unlike Github), non-profit (unlike Gi
 - [The Mythical Man Finger (on the Internet Archive†)](https://web.archive.org/web/20121015012156/http://stephenramsay.us/2011/07/25/the-mythical-man-finger.html).
 - [Worse Is Better](https://www.dreamsongs.com/WIB.html) and ["the story of the evolution of that concept"](https://dreamsongs.com/WorseIsBetter.html).
 - [The GNU Manifesto](https://www.gnu.org/gnu/manifesto.html).
-- [The Cathedral And The Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar).
+- [The Cathedral And The Bazaar](https://www.catb.org/~esr/writings/cathedral-bazaar/).
+    - [The Wayback Machine of The Internet Archive mirror of the book](https://web.archive.org/web/20251003143515/http://catb.org/~esr/writings/cathedral-bazaar/).
+    - [[[The Cathedral and the Bazaar]]](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar).
 - [The Suckless Manifesto](https://suckless.org/philosophy/).
 - [Meat Beat Manifesto](https://www.youtube.com/watch?v=ShFVqOaQS-c).
 - [The Agile Manifesto](https://agilemanifesto.org/).
