@@ -48,6 +48,7 @@ Philosophies and approaches of computer users.
 
 ## Humanity versus IT.
 
+- [Fuck Art Manifesto](https://fuckart.io/).  No idea who wrote it.  Reading it makes me very confused and I am not sure what's it all about.  It quotes "*The Internet's business model is betrayal.*"—[MWL](https://mwl.io/) which sounds to me like the essence of [enshittification](https://en.wikipedia.org/wiki/Enshittification).
 - [The Guerrila Open Access Manifesto (on the Internet Archive†)](https://archive.org/details/GuerillaOpenAccessManifesto).
   (also on [the Open Behavioral Science site](https://openbehavioralscience.org/manifesto/)).
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
